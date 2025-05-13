@@ -58,7 +58,8 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
     end
     endmodule
     
-Developed by: Raagavi RM RegisterNumber: 24900010
+Developed by: RATTISH KUMAR SS
+REG : 212224230223
 
 **RTL LOGIC FOR FLIPFLOPS**
 
